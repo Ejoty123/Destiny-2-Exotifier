@@ -1,2 +1,6 @@
 import guns from './guns.json' assert { type: 'json' };
-console.log(guns.0);
+
+int rand = Math.random() * guns.length;
+console.log (rand);
+console.log (guns.length);
+console.log(guns[rand]);
