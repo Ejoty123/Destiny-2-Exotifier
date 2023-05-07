@@ -1,0 +1,14 @@
+[{
+	"name": "gun1",
+	"type": "kinetic",
+	"page": 1,
+	"row": 2,
+	"column": 3
+ },
+ {
+	"name": "gun2",
+	"type": "energy",
+	"page": 2,
+	"row": 4,
+	"column": 1
+ }]
