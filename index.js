@@ -1,2 +1,2 @@
-import data from './guns.json' assert { type: 'json' };
-console.log(data.0);
+import guns from './guns.json' assert { type: 'json' };
+console.log(guns.0);
