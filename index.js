@@ -3,7 +3,7 @@ import guns from './guns.json' assert { type: 'json' };
 var rand = Math.floor(Math.random() * guns.length);
 console.log (rand);
 console.log (guns.length);
-console.log(`the gun random was ${guns[rand]} `);
+console.log(`the gun random was ${JSON.stringify(guns[rand])} `);
 document.getElementById("itsthegun").innerHTML = (guns[rand].name);
 
 //random button bullshit 
