@@ -19,3 +19,7 @@ document.body.appendChild(button);
 button.setAttribute("class", "btn btn-primary");
 
 // it worked gadzooks, gotta run a function of this sort to generate x random buttons?
+
+function createbuttons(){
+	console.log("gadzooks");
+}
