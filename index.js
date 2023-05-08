@@ -38,6 +38,6 @@ document.addEventListener('click', function(e) {
     if (isNaN(player)){
         return;
     }
-    console.log(`generating gun for player ${player}` );
-    console.log(`${player}'s gun is ${JSON.stringify(guns[rand].name)}, which is on row${JSON.stringify(guns[rand].row)} column ${JSON.stringify(guns[rand].column)}`)
+    console.log(`generating gun for player ${player}`);
+    console.log(`${player}'s gun is ${JSON.stringify(guns[rand].name)}, which is on row${JSON.stringify(guns[rand].row)} column ${JSON.stringify(guns[rand].column)}`);
 }, false);
