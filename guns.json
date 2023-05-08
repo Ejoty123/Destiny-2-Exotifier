@@ -18,4 +18,25 @@
 	"page": 1,
 	"row": 5,
 	"column": 2
+ },
+ {
+	"name": "gun4",
+	"type": "energy",
+	"page": 1,
+	"row": 3,
+	"column": 2
+ },
+ {
+	"name": "gun5",
+	"type": "kinetic",
+	"page": 2,
+	"row": 5,
+	"column": 4
+ },
+ {
+	"name": "gun6",
+	"type": "kinetic",
+	"page": 1,
+	"row": 2,
+	"column": 5
  }]
