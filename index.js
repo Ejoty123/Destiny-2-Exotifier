@@ -24,4 +24,6 @@ document.getElementById ("buttoncreator").addEventListener ("click", buttonator)
 
 function buttonator() {
   console.log(`yes please create a button`);
+  document.getElementById("table").innerHTML +=
+            "<h3>This is the text which has been inserted by JS</h3>";
 }
