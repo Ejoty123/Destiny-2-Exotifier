@@ -3,7 +3,7 @@ import guns from './guns.json' assert { type: 'json' };
 var rand = Math.floor(Math.random() * guns.length);
 console.log (rand);
 console.log (guns.length);
-console.log(guns[rand]);
+console.log("the gun random was $guns[rand] " + guns[rand]);
 document.getElementById("itsthegun").innerHTML = (guns[rand].name);
 
 //random button bullshit 
@@ -16,3 +16,5 @@ button.setAttribute('onclick', 'btnSendMail_Click()');
 button.setAttribute('form', 'myform');
 document.body.appendChild(button);
 button.setAttribute("class", "btn btn-primary");
+
+// it worked gadzooks, gotta run a function of this sort to generate x random buttons?
