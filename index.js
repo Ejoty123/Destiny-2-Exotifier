@@ -29,9 +29,16 @@ function buttonator() {
   buttonnumber++;
   console.log(`creating button number ${buttonnumber}`);
   document.getElementById("table").innerHTML +=
-            `<span id="btn${buttonnumber}">Mock Button#${buttonnumber}</span>`;
+            `<span id="${buttonnumber}">Mock Button#${buttonnumber}</span>`;
 }
 
 document.addEventListener('click', function(e) {
-    console.log( e.target.id );
+    var player = e.target.id;
+    console.log(`player id is ${player}`);
+    if (isNaN(player)){
+        return;
+    }
+    console.log(`generating gun for player ${player}` );
+    console.log(`${player}'s gun is ${JSON.stringify(guns[rand].name)}, which is on row${JSON.stringify(guns[rand].row)} column ${JSON.stringify(guns[rand].column)}`)
+    document.getElementById(${player})
 }, false);
