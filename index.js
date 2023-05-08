@@ -22,8 +22,12 @@ button.setAttribute("class", "btn btn-primary"); */
 
 document.getElementById ("buttoncreator").addEventListener ("click", buttonator);
 
+var buttonnumber = 0;
+
 function buttonator() {
   console.log(`yes please create a button`);
+  buttonnumber++;
+  console.log(`creating button number ${buttonnumber}`);
   document.getElementById("table").innerHTML +=
-            "<span>Mock Button</span>";
+            `<span>Mock Button#${buttonnumber}</span>`;
 }
