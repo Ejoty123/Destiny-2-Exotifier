@@ -9,14 +9,14 @@ document.getElementById("itsthegun").innerHTML = (guns[rand].name);
 
 //random button bullshit 
 
-var button = document.createElement('input');
+/* var button = document.createElement('input');
 button.setAttribute('type', 'submit');
 button.setAttribute('ID', 'btnSendMailClone');
 button.setAttribute('value', 'Submit');
 button.setAttribute('onclick', 'btnSendMail_Click()');
 button.setAttribute('form', 'myform');
 document.body.appendChild(button);
-button.setAttribute("class", "btn btn-primary");
+button.setAttribute("class", "btn btn-primary"); */
 
 // it worked gadzooks, gotta run a function of this sort to generate x random buttons?
 
@@ -27,7 +27,6 @@ function buttonator() {
   var buttoncount = document.getElementById("numberofbuttons").value;
   var ogbutton = document.getElementById("buttoncreator");
   console.log(`yes please create ${buttoncount} buttons`);
-  console.log(` deleting ${buttoncountfield}`);
   buttoncountfield.remove();
   ogbutton.remove();
   console.log("IT BUTTONS");
