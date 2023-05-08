@@ -29,5 +29,5 @@ function buttonator() {
   buttonnumber++;
   console.log(`creating button number ${buttonnumber}`);
   document.getElementById("table").innerHTML +=
-            `<span id="btn${buttonnumber}>Mock Button#${buttonnumber}</span>`;
+            `<span id="btn${buttonnumber}">Mock Button#${buttonnumber}</span>`;
 }
