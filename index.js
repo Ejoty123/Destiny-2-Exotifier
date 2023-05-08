@@ -20,8 +20,8 @@ button.setAttribute("class", "btn btn-primary");
 
 // it worked gadzooks, gotta run a function of this sort to generate x random buttons?
 
-document.getElementById ("buttoncreator").addEventListener ("click", myFunction, false);
+document.getElementById ("buttoncreator").addEventListener ("click", buttonator);
 
-function myFunction() {
-  console.log("Hello! I am an alert box!!");
+function buttonator() {
+  console.log("IT BUTTONS");
 }
