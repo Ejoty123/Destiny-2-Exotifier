@@ -23,5 +23,12 @@ button.setAttribute("class", "btn btn-primary");
 document.getElementById ("buttoncreator").addEventListener ("click", buttonator);
 
 function buttonator() {
+  var buttoncountfield = document.getElementById("numberofbuttons");
+  var buttoncount = document.getElementById("numberofbuttons").value;
+  var ogbutton = document.getElementById("buttoncreator");
+  console.log(`yes please create ${buttoncount} buttons`);
+  console.log(` deleting ${buttoncountfield}`);
+  buttoncountfield.remove();
+  ogbutton.remove();
   console.log("IT BUTTONS");
 }
