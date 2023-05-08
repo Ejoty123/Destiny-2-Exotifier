@@ -11,4 +11,11 @@
 	"page": 2,
 	"row": 4,
 	"column": 1
+ },
+ {
+	"name": "gun3",
+	"type": "energy",
+	"page": 1,
+	"row": 5,
+	"column": 2
  }]
