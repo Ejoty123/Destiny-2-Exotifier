@@ -31,3 +31,7 @@ function buttonator() {
   document.getElementById("table").innerHTML +=
             `<span id="btn${buttonnumber}">Mock Button#${buttonnumber}</span>`;
 }
+
+document.addEventListener('click', function(e) {
+    console.log( e.target.id );
+}, false);
