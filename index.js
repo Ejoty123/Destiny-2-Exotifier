@@ -1,12 +1,5 @@
 import guns from './guns.json' assert { type: 'json' };
 
-/* var rand = Math.floor(Math.random() * guns.length);
-console.log (`the random number was ${rand}`);
-console.log (`there are ${guns.length} guns in the database`);
-console.log(`the gun random was ${JSON.stringify(guns[rand].name)} `);
-
-document.getElementById("itsthegun").innerHTML = (guns[rand].name); */
-
 //random button bullshit 
 
 /* var button = document.createElement('input');
@@ -29,9 +22,7 @@ function buttonator() {
   buttonnumber++;
   console.log(`creating button number ${buttonnumber}`);
   document.getElementById("table").innerHTML +=
-            `<span id="${buttonnumber}">Mock Button#${buttonnumber}</span>`;
-    document.getElementById("image").innerHTML +=
-    `<img id="image${buttonnumber}" src="https://www.bungie.net/common/destiny2_content/icons/0f3e38e82bac5e8c78d1a47be53341e0.jpg" alt="placeholder weapon">`;
+            `<figure><img id="image${buttonnumber}" src="https://www.bungie.net/common/destiny2_content/icons/0f3e38e82bac5e8c78d1a47be53341e0.jpg" alt="placeholder weapon"><figcaption id="${buttonnumber}">Mock Button#${buttonnumber}</figcaption>`;
 }
 
 document.addEventListener('click', function(e) {
