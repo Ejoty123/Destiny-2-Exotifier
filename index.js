@@ -30,6 +30,8 @@ function buttonator() {
   console.log(`creating button number ${buttonnumber}`);
   document.getElementById("table").innerHTML +=
             `<span id="${buttonnumber}">Mock Button#${buttonnumber}</span>`;
+    document.getElementById("image").innerHTML +=
+    `<img id="image${buttonnumber}" src="https://www.bungie.net/common/destiny2_content/icons/0f3e38e82bac5e8c78d1a47be53341e0.jpg" alt="placeholder weapon">`;
 }
 
 document.addEventListener('click', function(e) {
