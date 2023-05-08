@@ -34,6 +34,10 @@ function buttonator() {
 
 document.addEventListener('click', function(e) {
     var rand = Math.floor(Math.random() * guns.length);
+    console.log (`the random number was ${rand}`);
+    console.log (`there are ${guns.length} guns in the database`);
+    console.log(`the gun random was ${JSON.stringify(guns[rand].name)} `);
+
     var player = e.target.id;
     console.log(`player id is ${player}`);
     if (isNaN(player)){
