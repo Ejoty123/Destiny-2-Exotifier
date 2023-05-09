@@ -44,6 +44,66 @@
 	"image": "https://www.bungie.net/common/destiny2_content/icons/1d3733c665f01b4adea1c5f65558ddde.jpg"
  },
  {
+	"name": "POLARIS LANCE",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/3bac8dcce9fec2943b7fa5608849d6bc.jpg"
+ },
+ {
+	"name": "PROMETHEUS LENS",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/779288b69aa050c126c827ec5bb44c47.jpg"
+ },
+ {
+	"name": "TELESTO",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/977b96607460863e36260a5428bdd4c3.jpg"
+ },
+ {
+	"name": "BOREALIS",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/390a627fb3ce18808c6288c1664b3738.jpg"
+ },
+ {
+	"name": "COLDHEART",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/01de9a1a16ed563ac911c0c95d15ab88.jpg"
+ },
+ {
+	"name": "FIGHTING LION",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/4392251920264f64bfed200ea894adb4.jpg"
+ },
+ {
+	"name": "GRAVITON LANCE",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/492d92346c4325dada5455281ea00053.jpg"
+ },
+ {
+	"name": "HARD LIGHT",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/8070b4aa8ef05ed33005d0ea314c575f.jpg"
+ },
+ {
+	"name": "MERCILESS",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/2539a0478ce440192272f16529dcc37d.jpg"
+ },
+ {
+	"name": "RISKRUNNER",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/d8fc70e24fd1ddae0546c21ff1cf86d4.jpg"
+ },
+ {
+	"name": "SKYBURNER'S OATH",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/69589d312320228022173ef7ef543a40.jpg"
+ },
+ {
+	"name": "SUNSHOT",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/7e2480b7abb1091ad6fe981641fcfe92.jpg"
+ },
+ {
 	"name": "",
 	"type": "",
 	"image": ""
