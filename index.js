@@ -29,5 +29,5 @@ document.addEventListener('click', function(e) {
     document.getElementById(player).textContent=`${guns[rand].name}`;
     document.getElementById(`image${player}`).src = `${guns[rand].image}`;
     document.getElementById(`type${player}`).textContent=`${guns[rand].type}`;
-    document.getElementById(`type${player}`).setAttribute("color",`${guns[rand].color}`);
+    document.getElementById(`color${player}`).setAttribute("color",`${guns[rand].color}`);
 }, false);
