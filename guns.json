@@ -73,28 +73,28 @@
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/779288b69aa050c126c827ec5bb44c47.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "TELESTO",
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/977b96607460863e36260a5428bdd4c3.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "BOREALIS",
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/390a627fb3ce18808c6288c1664b3738.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "COLDHEART",
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/01de9a1a16ed563ac911c0c95d15ab88.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "FIGHTING LION",
@@ -122,7 +122,7 @@
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/2539a0478ce440192272f16529dcc37d.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "RISKRUNNER",
@@ -150,7 +150,7 @@
 	"type": "Kinetic",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/a25a0a02beacad55e2e5baf7c56c4acf.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "THORN",
@@ -164,7 +164,7 @@
 	"type": "Kinetic",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/90e33e5fbf32b4445cb095d17ab00fb7.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "THE LAST WORD",
@@ -192,7 +192,7 @@
 	"type": "Kinetic",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/c5fb814d409f1c0a47e89c5062e2182b.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "BAD JUJU",
@@ -234,14 +234,14 @@
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/507250e2d087e20c9c2572113dae8f72.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "LORD OF WOLVES",
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/cad0bc80784d4029898b3a142c13da03.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "TRINITY GHOUL",
@@ -262,7 +262,7 @@
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/e775a68f8846dc95cdd2823774b7b26d.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "TARRABAH",
@@ -290,28 +290,28 @@
 	"type": "Kinetic",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/32c00781f13e5597d16d8c2fc40e170d.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "WITHERHOARD",
 	"type": "Kinetic",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/e805ada80a07dccb6db9db71199ab273.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "RUINOUS EFFIGY",
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/c56baa404c0aa497af59b05f13c8d035.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "THE FOURTH HORSEMAN",
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/e22cf7677ed8903cfb1bbaec8dc0d81a.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "DEVIL'S RUIN",
@@ -339,28 +339,28 @@
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/021e6564a148be166ebd04a38979a025.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "DIVINITY",
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/097f8146229e7e8693a989952f44c843.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "AGER'S SCEPTER",
 	"type": "Kinetic",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/a8fce2ba7ff621877cb718a84cc70930.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "FORERUNNER",
 	"type": "Kinetic",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/0a5552b4600022e8e84805751c825726.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "NO TIME TO EXPLAIN",
@@ -395,7 +395,7 @@
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/fe2ece0df57417cf291b462fe3c41c09.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "TICUU'S DIVINATION",
@@ -409,14 +409,14 @@
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/ad94d7a9510d40ae68cd51d175c031f9.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "CLOUDSTRIKE",
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/c365777c8302772a865d99fb63da8731.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "VEX MYTHOCLAST",
@@ -472,7 +472,7 @@
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/0e220e001b7fbdbc8ef1f30b634e5521.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "TRESPASSER",
@@ -486,14 +486,14 @@
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/99c98af523a93f7834f2757395169e74.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "CLASS GLAIVE",
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/c0c030e9553de314f3f9892f27d85557.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "COLLECTIVE OBLIGATION",
@@ -521,13 +521,13 @@
 	"type": "Kinetic",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/ce179cbb692471c017fed7d5c85ebed8.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  },
  {
 	"name": "VEXCALIBUR",
 	"type": "Energy",
 	"image": "https://www.bungie.net/common/destiny2_content/icons/567befa9cc67a1d33355abb7fd9328fe.jpg",
 	"ammo" : "Special",
-	"color": "green"
+	"color": "#0f0"
  }
 ]
