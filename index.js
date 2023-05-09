@@ -9,7 +9,7 @@ function buttonator() {
   buttonnumber++;
   console.log(`creating button number ${buttonnumber}`);
   document.getElementById("table").innerHTML +=
-            `<figure><img id="image${buttonnumber}" class="imagecontainer" src="https://www.bungie.net/common/destiny2_content/icons/0f3e38e82bac5e8c78d1a47be53341e0.jpg" alt="placeholder weapon"><div class="description"><figcaption class="gunname" id="${buttonnumber}">PLAYER ${buttonnumber}</figcaption></div><div class="guninfo" id="guninfo${buttonnumber}"><figcaption>GUN INFO HERE</figcaption></div>`;
+            `<figure><img id="image${buttonnumber}" class="imagecontainer" src="https://www.bungie.net/common/destiny2_content/icons/0f3e38e82bac5e8c78d1a47be53341e0.jpg" alt="placeholder weapon"><div class="description"><figcaption class="gunname" id="${buttonnumber}">PLAYER ${buttonnumber}</figcaption></div><div class="guninfo"><figcaption id="guninfo${buttonnumber}"> Kinetic // <span id=color${buttonnumber}>Primary</span></figcaption></figure></div>`;
 }
 
 document.addEventListener('click', function(e) {
@@ -25,7 +25,10 @@ document.addEventListener('click', function(e) {
     }
     console.log(`generating gun for player ${player}`);
     console.log(`${player}'s gun is ${JSON.stringify(guns[rand].name)}`);
+    console.log(`gun is ${guns[rand].type} and uses ${guns[rand].ammo} ammo`)
     document.getElementById(player).textContent=`${guns[rand].name}`;
     document.getElementById(`guninfo${player}`).textContent=`${guns[rand].type} // <span style="color:${guns[rand].color};">${guns[rand].ammo}</span>`;
+    document.getElementById(`color${player}`).setAttribute(`color`, `${guns[rand].color}`);
+    document.getElementById(`color${player}`).textContent=`${guns[rand].color}`;
     document.getElementById(`image${player}`).src = `${guns[rand].image}`
 }, false);
