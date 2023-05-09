@@ -7,6 +7,8 @@ h1 {
     font-size: 72px;
     color:#c2c2c2;
     mix-blend-mode:color-dodge;
+    padding-top:20px;
+    margin-bottom: 0px;
 }
 #header-p {
     font-family: Epoca;
