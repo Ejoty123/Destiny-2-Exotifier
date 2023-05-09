@@ -1,5 +1,6 @@
-@font-face { font-family: Futura; src: url('Futura-Book.otf'); } 
-@font-face { font-family: Epoca; src: url('epocapro-mediumitalic.otf'); } 
+@font-face { font-family: Futura; src: url('Futura-Book.otf'); }  /* LOGO */
+@font-face { font-family: Neue; src: url('NeueHaas.ttf'); } /* GUN type text, buttons? */
+@font-face { font-family: Epoca; src: url('epocapro-mediumitalic.otf'); } /* Descriptions/Text */
 
 h1 {
     font-family: Futura;
@@ -10,6 +11,15 @@ h1 {
 .header-p {
     font-family: Epoca;
 }
+
+.addplayerbutton {
+    font-family: Neue;
+}
+
+.gunname {
+    font-family: Neue;
+}
+
 div.demo {
     display: table;
     width: 100%;
