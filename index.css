@@ -3,7 +3,8 @@ div.demo {
     width: 100%;
     table-layout: fixed;    /* For cells of equal size */
 }
-div.demo span {
-    display: table-cell;
-    text-align: center;
+
+figure {
+    display:table-cell;
+    text-align:center;
 }
