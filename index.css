@@ -1,3 +1,8 @@
+@font-face { font-family: Futura; src: url('Futura-Book.otf'); } 
+
+h1 {
+    font-family: Futura;
+}
 div.demo {
     display: table;
     width: 100%;
