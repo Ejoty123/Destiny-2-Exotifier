@@ -14,18 +14,11 @@ function buttonator() {
 
 document.addEventListener('click', function(e) {
     var rand = Math.floor(Math.random() * guns.length);
-    console.log (`there are ${guns.length} guns in the database`);
-    console.log(`the gun random was ${JSON.stringify(guns[rand].name)} `);
-
     var player = e.target.id;
-    console.log(`player id is ${player}`);
     if (isNaN(player)){
         console.log(`${player} is not a number`);
         return;
     }
-    console.log(`generating gun for player ${player}`);
-    console.log(`${player}'s gun is ${JSON.stringify(guns[rand].name)}`);
-    console.log(`gun is ${guns[rand].type} and uses ${guns[rand].ammo} ammo`)
     document.getElementById(player).textContent=`${guns[rand].name}`;
     document.getElementById(`image${player}`).src = `${guns[rand].image}`;
 }, false);
