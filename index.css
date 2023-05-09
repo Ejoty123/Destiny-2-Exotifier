@@ -32,11 +32,12 @@ h1 {
     background-color: #2e2e38;
     color: #dddddd;
     border-radius:4px;
+    overflow: hidden;
 }
 
 .gunname {
     font-family: Neue;
-    font-size: 22px;
+    font-size: 20px;
     user-select: none;
 }
 
