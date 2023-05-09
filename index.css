@@ -1,7 +1,14 @@
 @font-face { font-family: Futura; src: url('Futura-Book.otf'); } 
+@font-face { font-family: Epoca; src: url('epocapro-mediumitalic.otf'); } 
 
 h1 {
     font-family: Futura;
+    font-size: 72px;
+    color:#c2c2c2;
+    mix-blend-mode:color-dodge;
+}
+.header-p {
+    font-family: Epoca;
 }
 div.demo {
     display: table;
@@ -26,5 +33,5 @@ header {
 
 html, body {
     margin: 0;
-    margin-top: -11px;
+    margin-top: -24px;
    }
