@@ -76,7 +76,7 @@ html, body {
     margin: 0;
     margin-top: -24px;
     background-color: #1a1a23;
-    min-height:100vh;
+    min-height: calc(100vh - 132px);
     margin-bottom:-22px;
    }
 
@@ -88,8 +88,4 @@ footer {
     background-color:#1f1f2a;
     color:#AAAAAA;
     text-align: center;
-}
-
-.push {
-    height:22px;
 }
