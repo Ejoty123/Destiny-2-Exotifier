@@ -8,3 +8,7 @@ figure {
     display:table-cell;
     text-align:center;
 }
+
+div.addplayerbutton {
+    text-align:center;
+}
