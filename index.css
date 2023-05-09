@@ -27,10 +27,8 @@ h1 {
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
-    padding-left:10px;
-    padding-right: 10px;
     background-color: #2e2e38;
-    color: #dddddd;
+    color: #e6e6e6;
     border-radius:4px;
     overflow: hidden;
 }
@@ -38,7 +36,9 @@ h1 {
 .gunname {
     font-family: Neue;
     font-size: 20px;
+    padding: 2px;
     user-select: none;
+    background-color: #b29428;
 }
 
 div.demo {
@@ -86,4 +86,12 @@ footer {
     background-color:#1f1f2a;
     color:#AAAAAA;
     text-align: center;
+}
+
+.gunstuff {
+    font-family: Epoca;
+    color: #aaa;
+    font-size: 1vw;
+    padding-top:10px;
+    padding-bottom:10px;
 }
