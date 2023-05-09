@@ -14,7 +14,6 @@ function buttonator() {
 
 document.addEventListener('click', function(e) {
     var rand = Math.floor(Math.random() * guns.length);
-    console.log (`the random number was ${rand}`);
     console.log (`there are ${guns.length} guns in the database`);
     console.log(`the gun random was ${JSON.stringify(guns[rand].name)} `);
 
@@ -25,7 +24,7 @@ document.addEventListener('click', function(e) {
         return;
     }
     console.log(`generating gun for player ${player}`);
-    console.log(`${player}'s gun is ${JSON.stringify(guns[rand].name)}, which is on row${JSON.stringify(guns[rand].row)} column ${JSON.stringify(guns[rand].column)}`);
+    console.log(`${player}'s gun is ${JSON.stringify(guns[rand].name)}`);
     document.getElementById(player).textContent=`${guns[rand].name}`;
     document.getElementById(`image${player}`).src = `${guns[rand].image}`
 }, false);
