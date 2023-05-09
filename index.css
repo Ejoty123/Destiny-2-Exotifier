@@ -37,7 +37,7 @@ h1 {
 
 .gunname {
     font-family: Neue;
-    font-size: 20px;
+    font-size: 40px;
     user-select: none;
 }
 
@@ -76,14 +76,20 @@ html, body {
     margin: 0;
     margin-top: -24px;
     background-color: #1a1a23;
+    min-height:100vh;
+    margin-bottom:-22px;
    }
 
 footer {
+    height:22px;
     font-family: Epoca;
-    position:fixed;
     bottom:0;
     width:100%;
     background-color:#1f1f2a;
     color:#AAAAAA;
     text-align: center;
+}
+
+.push {
+    height:22px;
 }
