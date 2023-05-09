@@ -29,6 +29,7 @@ h1 {
 .gunname {
     font-family: Neue;
     font-size: 20px;
+    user-select: none;
 }
 
 div.demo {
