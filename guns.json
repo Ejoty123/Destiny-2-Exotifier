@@ -104,7 +104,278 @@
 	"image": "https://www.bungie.net/common/destiny2_content/icons/7e2480b7abb1091ad6fe981641fcfe92.jpg"
  },
  {
-	"name": "A",
-	"type": "A",
-	"image": "https://i.imgur.com/uQFH0av.png"
- }]
+	"name": "ARBALEST",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/a25a0a02beacad55e2e5baf7c56c4acf.jpg"
+ },
+ {
+	"name": "THORN",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/ba392591a98adb436d5f34db5af635c1.jpg"
+ },
+ {
+	"name": "IZANAGI'S BURDEN",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/90e33e5fbf32b4445cb095d17ab00fb7.jpg"
+ },
+ {
+	"name": "THE LAST WORD",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/c30f714c7f642951c68069aa92cf06b3.jpg"
+ },
+ {
+	"name": "ACE OF SPADES",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/ce5d5c56ffc83fe92b367ec2d4dc1a2a.jpg"
+ },
+ {
+	"name": "CERBERUS+1",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/8d6d43a7aab79e837b7b3b09dd7a8b3d.jpg"
+ },
+ {
+	"name": "THE CHAPERONE",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/c5fb814d409f1c0a47e89c5062e2182b.jpg"
+ },
+ {
+	"name": "BAD JUJU",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/83f666505b8e3a3d311b005922739283.jpg"
+ },
+ {
+	"name": "LUMINA",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/26e7f61d27a6d730336a5bfe33dd5532.jpg"
+ },
+ {
+	"name": "OUTBREAK PERFECTED",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/b71a0a8c2dbfda6ac33cde56983fe078.jpg"
+ },
+ {
+	"name": "MALFEASANCE",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/0c2816822b0a1787157f1e90d3bd057c.jpg"
+ },
+ {
+	"name": "WISH-ENDER",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/2f43461f378a905db1ba3e3dbcbfed83.jpg"
+ },
+ {
+	"name": "JÖTUNN",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/507250e2d087e20c9c2572113dae8f72.jpg"
+ },
+ {
+	"name": "LORD OF WOLVES",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/cad0bc80784d4029898b3a142c13da03.jpg"
+ },
+ {
+	"name": "TRINITY GHOUL",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/fd7b661576c13c450d0d729d5bbf7333.jpg"
+ },
+ {
+	"name": "LE MONARQUE",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/0c71441bf8ee516b5a2001532d1f8d01.jpg"
+ },
+ {
+	"name": "WAVESPLITTER",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/e775a68f8846dc95cdd2823774b7b26d.jpg"
+ },
+ {
+	"name": "TARRABAH",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/6cc7802bb9e22fbd1d8a0b4d70bdf531.jpg"
+ },
+ {
+	"name": "MONTE CARLO",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/3885eb5206a2f3b8a85a020fb87d34a7.jpg"
+ },
+ {
+	"name": "TRAVELER'S CHOSEN",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/d35a7daa6cb2ce297d130588a7b45368.jpg"
+ },
+ {
+	"name": "BASTION",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/32c00781f13e5597d16d8c2fc40e170d.jpg"
+ },
+ {
+	"name": "WITHERHOARD",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/e805ada80a07dccb6db9db71199ab273.jpg"
+ },
+ {
+	"name": "RUINOUS EFFIGY",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/c56baa404c0aa497af59b05f13c8d035.jpg"
+ },
+ {
+	"name": "THE FOURTH HORSEMAN",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/e22cf7677ed8903cfb1bbaec8dc0d81a.jpg"
+ },
+ {
+	"name": "DEVIL'S RUIN",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/65acc14a463a14875980a54d6d244a99.jpg"
+ },
+ {
+	"name": "SYMMETRY",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/ab8384a7cf91615ca198219436a8808b.jpg"
+ },
+ {
+	"name": "TOMMY'S MATCHBOOK",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/48bc926c393a48f40e43dec16122c6b3.jpg"
+ },
+ {
+	"name": "ERIANA'S VOW",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/021e6564a148be166ebd04a38979a025.jpg"
+ },
+ {
+	"name": "DIVINITY",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/097f8146229e7e8693a989952f44c843.jpg"
+ },
+ {
+	"name": "AGER'S SCEPTER",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/a8fce2ba7ff621877cb718a84cc70930.jpg"
+ },
+ {
+	"name": "FORERUNNER",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/0a5552b4600022e8e84805751c825726.jpg"
+ },
+ {
+	"name": "NO TIME",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/b4815d2060876f82559502e67bf9c3e3.jpg"
+ },
+ {
+	"name": "DEAD MAN'S TALE",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/67634d7a01d7dca3aef90b4612d58489.jpg"
+ },
+ {
+	"name": "HAWKMOON",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/bc462cdde2fa00c808ff4f15802cb3b4.jpg"
+ },
+ {
+	"name": "CRYOSTHESIA 77K",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/53989f95d057bdf0b2607a4b6de2013e.jpg"
+ },
+ {
+	"name": "LORENTZ DRIVER",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/fe2ece0df57417cf291b462fe3c41c09.jpg"
+ },
+ {
+	"name": "TICUU'S DIVINATION",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/7301e9d948c8f56dd9f972eea2a7ccd2.jpg"
+ },
+ {
+	"name": "DUALITY",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/ad94d7a9510d40ae68cd51d175c031f9.jpg"
+ },
+ {
+	"name": "CLOUDSTRIKE",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/c365777c8302772a865d99fb63da8731.jpg"
+ },
+ {
+	"name": "VEX MYTHOCLAST",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/a8e1945b653a0cfb35c3652bef2f6092.jpg"
+ },
+ {
+	"name": "REVISION ZERO",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/3bf81dd785826e06f190ab1f7d9b27a0.jpg"
+ },
+ {
+	"name": "QUICKSILVER STORM",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/94c469ee1cb67c6e0ed590f00e8d4f2f.jpg"
+ },
+ {
+	"name": "OSTEO STRIGA",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/e345f822fe5cb657bfdc05df78611bba.jpg"
+ },
+ {
+	"name": "TOUCH OF MALICE",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/74e65bda44975d1fc6c28a85e102be9c.jpg"
+ },
+ {
+	"name": "HIERARCHY OF NEEDS",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/a2e591069c81556b41afdc3c61052565.jpg"
+ },
+ {
+	"name": "THE MANTICORE",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/383bb659a1489d8ed5800e2793de0be8.jpg"
+ },
+ {
+	"name": "DELICATE TOMB",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/0e220e001b7fbdbc8ef1f30b634e5521.jpg"
+ },
+ {
+	"name": "TRESPASSER",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/f933fd8379602181f0405728e262433e.jpg"
+ },
+ {
+	"name": "DEAD MESSENGER",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/99c98af523a93f7834f2757395169e74.jpg"
+ },
+ {
+	"name": "CLASS GLAIVE",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/c0c030e9553de314f3f9892f27d85557.jpg"
+ },
+ {
+	"name": "COLLECTIVE OBLIGATION",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/e32acfb7e184421d72a58e134ee21aed.jpg"
+ },
+ {
+	"name": "FINAL WARNING",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/18048104c5656071062fff85fe5b0823.jpg"
+ },
+ {
+	"name": "VERGLAS CURVE",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/de7b4e36fbaced8dfc58c007926a9bb8.jpg"
+ },
+ {
+	"name": "CONDITIONAL FINALITY",
+	"type": "kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/ce179cbb692471c017fed7d5c85ebed8.jpg"
+ },
+ {
+	"name": "VEXCALIBUR",
+	"type": "energy",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/567befa9cc67a1d33355abb7fd9328fe.jpg"
+ }
+]
