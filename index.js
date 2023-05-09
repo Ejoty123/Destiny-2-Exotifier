@@ -26,6 +26,6 @@ document.addEventListener('click', function(e) {
     console.log(`generating gun for player ${player}`);
     console.log(`${player}'s gun is ${JSON.stringify(guns[rand].name)}`);
     document.getElementById(player).textContent=`${guns[rand].name}`;
-    document.getElementById(`guninfo${player}`).textContent=`${guns[rand].type} <br> ${guns[rand].type}`;
+    document.getElementById(`guninfo${player}`).textContent=`${guns[rand].type} // <span style="color:${guns[rand].color};">${guns[rand].ammo}</span>`;
     document.getElementById(`image${player}`).src = `${guns[rand].image}`
 }, false);
