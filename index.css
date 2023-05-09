@@ -21,4 +21,5 @@ header {
 
 html, body {
     margin: 0;
+    margin-top: -11px;
    }
