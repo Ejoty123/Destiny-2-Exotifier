@@ -1,48 +1,30 @@
 [{
 	"name": "SUROS REGIME",
 	"type": "kinetic",
-	"page": 1,
-	"row": 2,
-	"column": 3,
 	"image": "https://www.bungie.net/common/destiny2_content/icons/c4327b4c697485c21bee1833d1075bf1.jpg"
  },
  {
 	"name": "THE HUCKLEBERRY",
 	"type": "kinetic",
-	"page": 2,
-	"row": 4,
-	"column": 1,
 	"image": "https://www.bungie.net/common/destiny2_content/icons/0b614758c3d49e7f84776b0c0ce0413d.jpg"
  },
  {
 	"name": "CRIMSON",
 	"type": "kinetic",
-	"page": 1,
-	"row": 5,
-	"column": 2,
 	"image": "https://www.bungie.net/common/destiny2_content/icons/9a698cbe617a95339c6f885764e68ebc.jpg"
  },
  {
 	"name": "THE JADE RABBIT",
 	"type": "kinetic",
-	"page": 1,
-	"row": 3,
-	"column": 2,
 	"image": "https://www.bungie.net/common/destiny2_content/icons/f9259f56c04975f2c92e5617d19d22fa.jpg"
  },
  {
 	"name": "MIDA MULTI-TOOL",
 	"type": "kinetic",
-	"page": 2,
-	"row": 5,
-	"column": 4,
 	"image": "https://www.bungie.net/common/destiny2_content/icons/b481ccc7a201f55e21b561b132112f28.jpg"
  },
  {
 	"name": "SWEET BUSINESS",
 	"type": "kinetic",
-	"page": 1,
-	"row": 2,
-	"column": 5,
 	"image": "https://www.bungie.net/common/destiny2_content/icons/f997235a74d948f98c0f83817d8a5143.jpg"
  }]
