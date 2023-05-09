@@ -15,7 +15,10 @@ div.addplayerbutton {
 }
 
 header {
-    margin:0px;
     text-align: center;
     background-color: rgb(177, 143, 197);
 }
+
+html, body {
+    margin: 0;
+   }
