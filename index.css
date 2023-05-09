@@ -28,7 +28,7 @@ h1 {
     margin-left: 10px;
     margin-right: 10px;
     background-color: #2e2e38;
-    color: #e6e6e6;
+    color: #ffffff;
     border-radius:4px;
     overflow: hidden;
 }
@@ -38,7 +38,7 @@ h1 {
     font-size: 20px;
     padding: 2px;
     user-select: none;
-    background-color: #b29428;
+    background-color: #c6a72e;
 }
 
 div.demo {
