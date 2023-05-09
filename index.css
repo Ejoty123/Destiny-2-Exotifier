@@ -19,8 +19,15 @@ h1 {
 }
 
 #buttoncreator {
-    font-family: Neue;
-    font-size:20px;
+    font-family: Epoca;
+    background-color: orange;
+    border: none;
+    color:white;
+    font-size:18px;
+    border-radius: 3px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-bottom: 4px;
 }
 
 .description {
