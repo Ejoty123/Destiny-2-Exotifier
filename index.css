@@ -13,3 +13,9 @@ div.addplayerbutton {
     padding-top:5%;
     text-align:center;
 }
+
+header {
+    margin:0px;
+    text-align: center;
+    background-color: rgb(177, 143, 197);
+}
