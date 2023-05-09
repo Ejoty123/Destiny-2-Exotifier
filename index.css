@@ -5,13 +5,15 @@
 h1 {
     font-family: Futura;
     font-size: 72px;
-    color:#c2c2c2;
-    mix-blend-mode:color-dodge;
+    color:white;
     padding-top:20px;
     margin-bottom: 0px;
 }
 #header-p {
     font-family: Epoca;
+    font-size: 15px;
+    padding-bottom:5px;
+    color: white;
 }
 
 #buttoncreator {
@@ -25,7 +27,9 @@ h1 {
     margin-right: 30px;
     padding-left:10px;
     padding-right: 10px;
-    background-color: grey;
+    background-color: #2e2e38;
+    color: #dddddd;
+    border-radius:4px;
 }
 
 .gunname {
@@ -49,6 +53,10 @@ figure {
 
 .imagecontainer {
     width:144px;
+    border-style: solid;
+    border-radius: 4px;
+    border-width:10px;
+    border-color:#16161d;
 }
 
 div.addplayerbutton {
@@ -58,12 +66,13 @@ div.addplayerbutton {
 
 header {
     text-align: center;
-    background-color: rgb(177, 143, 197);
+    background-color: #2a2a36;
 }
 
 html, body {
     margin: 0;
     margin-top: -24px;
+    background-color: #1a1a23;
    }
 
 footer {
@@ -71,6 +80,7 @@ footer {
     position:absolute;
     bottom:0;
     width:100%;
-    background-color: #c2c2c2;
+    background-color:#2e2e38;
+    color:#dddddd;
     text-align: center;
 }
