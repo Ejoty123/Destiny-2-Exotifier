@@ -3,40 +3,46 @@
 	"type": "kinetic",
 	"page": 1,
 	"row": 2,
-	"column": 3
+	"column": 3,
+	"image": "https://i.imgur.com/uQFH0av.png"
  },
  {
 	"name": "gun2",
 	"type": "energy",
 	"page": 2,
 	"row": 4,
-	"column": 1
+	"column": 1,
+	"image": "https://i.imgur.com/v7BlxYQ.png"
  },
  {
 	"name": "gun3",
 	"type": "energy",
 	"page": 1,
 	"row": 5,
-	"column": 2
+	"column": 2,
+	"image": "https://i.imgur.com/qKhpBzr.png"
  },
  {
 	"name": "gun4",
 	"type": "energy",
 	"page": 1,
 	"row": 3,
-	"column": 2
+	"column": 2,
+	"image": "https://i.imgur.com/ABjLtnP.png"
  },
  {
 	"name": "gun5",
 	"type": "kinetic",
 	"page": 2,
 	"row": 5,
-	"column": 4
+	"column": 4,
+	"image": "https://i.imgur.com/zMKTVeh.png"
  },
  {
 	"name": "gun6",
 	"type": "kinetic",
 	"page": 1,
 	"row": 2,
-	"column": 5
+	"column": 5,
+	"image": "https://i.imgur.com/c1iRnqZ.png"
  }]
