@@ -12,15 +12,19 @@ h1 {
     font-family: Epoca;
 }
 
-.addplayerbutton {
+#buttoncreator {
     font-family: Neue;
+    font-size:20px;
 }
 
 .gunname {
     font-family: Neue;
+    font-size: 18px;
 }
 
 div.demo {
+    margin-top: 10%;
+    margin-bottom: 5%;
     display: table;
     width: 100%;
     table-layout: fixed;    /* For cells of equal size */
@@ -29,6 +33,10 @@ div.demo {
 figure {
     display:table-cell;
     text-align:center;
+}
+
+.imagecontainer {
+    width:120px;
 }
 
 div.addplayerbutton {
