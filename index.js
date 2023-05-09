@@ -28,6 +28,7 @@ document.addEventListener('click', function(e) {
     console.log(`gun is ${guns[rand].type} and uses ${guns[rand].ammo} ammo`)
     document.getElementById(player).textContent=`${guns[rand].name}`;
     document.getElementById(`image${player}`).src = `${guns[rand].image}`;
-    document.getElementById(`type${player}`).textContent=`${guns[rand].type}`;
-    document.getElementById(`color${player}`).setAttribute("color",`${guns[rand].color}`);
+    document.getElementById(`type${player}`).textContent=`${guns[rand].type} /`;
+    document.getElementById(`color${player}`).setAttribute("style",`color:${guns[rand].color};`);
+    document.getElementById(`color${player}`).textContent=`/ ${guns[rand].color}`;
 }, false);
