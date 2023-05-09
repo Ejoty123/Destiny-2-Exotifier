@@ -18,8 +18,10 @@ h1 {
 }
 
 .gunname {
+    padding-left:40px;
     font-family: Neue;
-    font-size: 18px;
+    font-size: 20px;
+    max-width: 144px;
 }
 
 div.demo {
@@ -36,7 +38,7 @@ figure {
 }
 
 .imagecontainer {
-    width:120px;
+    width:144px;
 }
 
 div.addplayerbutton {
