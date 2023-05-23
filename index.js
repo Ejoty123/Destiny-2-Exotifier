@@ -9,7 +9,7 @@ function buttonator() {
   buttonnumber++;
   console.log(`creating button number ${buttonnumber}`);
   document.getElementById("table").innerHTML +=
-            `<figure><img id="image${buttonnumber}" class="imagecontainer" src="https://www.bungie.net/common/destiny2_content/icons/0f3e38e82bac5e8c78d1a47be53341e0.jpg" alt="placeholder weapon"><div class="description" id="desc${buttonnumber}"><figcaption class="gunname" id="${buttonnumber}">PLAYER ${buttonnumber}</figcaption></div>`;
+            `<figure><img id="image${buttonnumber}" class="imagecontainer" src="https://www.bungie.net/common/destiny2_content/icons/cc3f8241b10b0ea73047c6910e9456b2.jpg" alt="placeholder weapon"><div class="description" id="desc${buttonnumber}"><figcaption class="gunname" id="${buttonnumber}">PLAYER ${buttonnumber}</figcaption></div>`;
   document.getElementById(`desc${buttonnumber}`).innerHTML += `<figcaption class="gunstuff" id="type${buttonnumber}">Kinetic //<span class="guncolor" id="color${buttonnumber}"> Primary</span></figcaption>`
 }
 
