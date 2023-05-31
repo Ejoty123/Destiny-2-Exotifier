@@ -536,5 +536,12 @@
 	"image": "https://www.bungie.net/common/destiny2_content/icons/8c1a4a500934d67ecdb02455820c9b67.jpg",
 	"ammo" : "Primary",
 	"color": "white"
+ },
+ {
+	"name": "THE NAVIGATOR",
+	"type": "Kinetic",
+	"image": "https://www.bungie.net/common/destiny2_content/icons/4984c634a7d2eca3baafc000a121263d.jpg",
+	"ammo" : "Special",
+	"color": "#0f0"
  }
 ]
